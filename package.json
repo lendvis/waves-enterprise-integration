@@ -1,0 +1,26 @@
+{
+  "name": "waves-enterprise-integration",
+  "version": "1.0.0",
+  "description": "Document tokenization and registry on Waves Enterprise blockchain (TypeScript)",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "@types/node": "^24.0.0",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.6.3"
+  },
+  "jest": {
+    "preset": "ts-jest",
+    "testEnvironment": "node",
+    "roots": [
+      "<rootDir>/test"
+    ]
+  }
+}
