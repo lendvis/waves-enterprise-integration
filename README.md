@@ -91,3 +91,9 @@ src/
 test/
   documentService.test.ts
 ```
+
+---
+
+**Студия Лендвис** — разработка сложных IT-продуктов.
+
+[lendvis.ru](https://lendvis.ru) · [hello@lendvis.ru](mailto:hello@lendvis.ru) · [Telegram](https://t.me/lendvis)
